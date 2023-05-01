@@ -1,6 +1,14 @@
 # The-12th-Gwangsan-gu-21-administrative-districts-data-analysis-and-convenience-store-location
 After collecting and processing 159 cases of public data, the location conditions are analyzed and the optimal location for convenience stores is identified. Programmed in c++ Qt.
 
+execution | map
+:-: | :-:
+<video src='https://user-images.githubusercontent.com/115389450/235430805-06e083ed-dceb-4af5-b349-d09902687312.mp4' width=180/> | <video src='https://user-images.githubusercontent.com/115389450/235430730-2cb6e8ec-7f9f-4d79-980c-53550eef6194.mp4' width=180/></video>
+
+test
+:-: 
+<video src='https://user-images.githubusercontent.com/115389450/235430909-3ff207f3-2a5a-4872-83d6-75d401f64ca0.mp4' width=180/> </video>
+
 ![image](https://user-images.githubusercontent.com/115389450/235430301-6eb9ae24-336e-46ae-8c87-f27450c22337.png)
 ![image](https://user-images.githubusercontent.com/115389450/235430336-7c3a5fe3-920c-4a5b-849b-adc52066dabd.png)
 ![image](https://user-images.githubusercontent.com/115389450/235430367-1e6721db-96ca-4109-ae66-46f170fac088.png)
